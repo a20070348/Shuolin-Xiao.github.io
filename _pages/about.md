@@ -12,7 +12,7 @@ __Biography__
 
 I am Shuolin Xiao. I received my Ph.D. in Mechanical Engineering from the University of Houston in 2020 and a B.A. in Electrical Engineering from Beijing Institute of Technology, China, in 2011. During my graduate studies, I developed numerical simulations for oil spills and wind turbine wake flows, with a primary objective of enhancing offshore environmental sustainability. After my Ph.D., I joined the School of Civil and Environmental Engineering at Cornell University as a Postdoctoral Associate. There, my research focused on the transport and fate of microplastics across urban, atmospheric, and oceanic environments. I am currently a Postdoctoral Fellow at the Ralph S. O’Connor Sustainable Energy Institute at Johns Hopkins University, where I specialize in numerical simulations of wind farms using large-eddy simulation and machine learning technologies for analysis.
 
-(/images/figure_Shuolin_Xiao.png)
+![Shuolin Xiao Figure](/images/figure_Shuolin_Xiao.png)
 
 __Research Interests__
 
