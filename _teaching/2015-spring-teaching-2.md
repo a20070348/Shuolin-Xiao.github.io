@@ -2,6 +2,6 @@
 title: "Teaching Philosophy Learnt from the Ancients"
 ---
 
-__Research Interests__
+__Stories from Confucius__
 
-![test](./images/skld.JPG)
+![test](./images/KF.JPG)
