@@ -19,7 +19,7 @@ My research centers on improving the sustainability of the built environment, ag
 
 ![test](./images/microplastics.JPG)
 
-Additionally, I have a strong interest in renewable energy, especially wind energy. I seek to understand how knowledge from a fluid mechanics perspective can enhance the design and efficiency of both onshore and offshore wind farms. Furthermore, I am keen to investigate the impact of wind and solar farms on the built environment, agriculture, and natural surroundings, particularly when integrated with fishery and agricultural systems. This not only aims to improve efficiency but also to characterize and mitigate effects on wildlife.
+I am also deeply interested in renewable energy, with a particular focus on wind energy. This interest is twofold. Firstly, by leveraging insights from fluid mechanics, I aim to significantly enhance the design and efficiency of both onshore and offshore wind farms. It's crucial that we harness wind energy in the most effective manner possible, maximizing our energy yield. Secondly, and of equal importance, is the potential impact of these wind farms on our environment. While wind farms represent a cleaner energy alternative, they also introduce new dynamics into our ecological environment, agriculture, and wildlife. I'm dedicated to understanding these interactions. As we integrate renewable energy infrastructure with other systems, such as fisheries and agriculture, it's imperative to not only focus on efficiency but also to diligently work towards mitigating any adverse effects on wildlife and the broader environment. Ensuring a harmonious balance between our technological advancements and natural ecosystems is key to truly sustainable development.
 
 ![test](./images/windfarm.JPG)
 
