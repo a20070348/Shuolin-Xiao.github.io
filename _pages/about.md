@@ -10,23 +10,23 @@ redirect_from:
 
 __Biography__
 
-[Your Name] earned a Ph.D. in [Your Discipline] from [Your Ph.D. University] in [Year of Completion]. [If you have a B.A. or any other degree, mention it similarly to the example]. Following this, [Your Name] worked as a Postdoctoral Associate at Cornell University, Ithaca, focusing on the transport and fate of microplastics in various environments. Currently, [Your Name] is a Postdoctoral Fellow at Johns Hopkins University, Baltimore, under the guidance of Professors Charles Meneveau and Dennice Gayme.
+I am Shuolin Xiao. I received my Ph.D. in Mechanical Engineering from the University of Houston in 2020 and a B.A. in Electrical Engineering from Beijing Institute of Technology, China, in 2011. During my graduate studies, I developed numerical simulations for oil spills and wind turbine wake flows, with a primary objective of enhancing offshore environmental sustainability. After my Ph.D., I joined the School of Civil and Environmental Engineering at Cornell University as a Postdoctoral Associate. There, my research focused on the transport and fate of microplastics across urban, atmospheric, and oceanic environments. I am currently a Postdoctoral Fellow at the Ralph S. O’Connor Sustainable Energy Institute at Johns Hopkins University, where I specialize in numerical simulations of wind farms using large-eddy simulation and machine learning technologies for analysis.
 
-Research Interests
+__Research Interests__
 
 [Your Name]'s research centers on [Provide a brief about your key research interests, for instance, "fluid dynamics and transport modeling in urban, atmospheric, and aquatic environments"]. [Your Name] employs a combination of computational models, high-performance computing, and field data to gain insights into [specific aspects of your research, like "how microplastics interact and influence urban and atmospheric systems"]. Key topics of current research involve [mention a couple of current research topics or methodologies].
 
-Key Collaborations
+__Key Collaborations__
 
 Collaborated with in-domain experts such as John O. Dabiri from Caltech and Luis A. Martínez-Tossas from the National Renewable Energy Laboratory during tenure at the University of Houston.
 
 At Cornell University, engaged in multi-disciplinary collaborations with experts specializing in large-scale modeling, data science, and artificial intelligence.
 
-Selected Publications
+__Selected Publications__
 
 [List a few of your publications similarly to the example given.]
 
-Selected Awards and Honors
+__Selected Awards and Honors__
 
 [List any awards or honors you have received, similar to the example.]
 
