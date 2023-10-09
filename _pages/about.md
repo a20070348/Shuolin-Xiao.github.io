@@ -20,8 +20,6 @@ My research centers on improving the sustainability of the built environment, ag
   <img src="../images/microplastics.png" alt="Your Image Description" style="max-width: 50%; margin-left: auto; display: block;">
 </div>
 
-![microplastics](../images/microplastics.png)
-
 __Key Collaborations__
 
 Collaborated with in-domain experts such as John O. Dabiri from Caltech and Luis A. Martínez-Tossas from the National Renewable Energy Laboratory during tenure at the University of Houston.
