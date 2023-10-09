@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+__Biography__
 
 [Your Name] earned a Ph.D. in [Your Discipline] from [Your Ph.D. University] in [Year of Completion]. [If you have a B.A. or any other degree, mention it similarly to the example]. Following this, [Your Name] worked as a Postdoctoral Associate at Cornell University, Ithaca, focusing on the transport and fate of microplastics in various environments. Currently, [Your Name] is a Postdoctoral Fellow at Johns Hopkins University, Baltimore, under the guidance of Professors Charles Meneveau and Dennice Gayme.
 
