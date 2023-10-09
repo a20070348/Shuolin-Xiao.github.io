@@ -1,5 +1,7 @@
 ---
 title: "Teaching Philosophy Learnt from the Ancients"
+collection: teaching
+permalink: /teaching/Teaching-Philosophy-Ancients
 ---
 
 ## The Story of Confucius Teaching for Diversity
