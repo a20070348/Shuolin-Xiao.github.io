@@ -18,28 +18,4 @@ My research centers on improving the sustainability of the built environment, ag
 
 ![microplastics](..//images/microplastics.jpeg)
 
-__Key Collaborations__
-
-Collaborated with in-domain experts such as John O. Dabiri from Caltech and Luis A. Martínez-Tossas from the National Renewable Energy Laboratory during tenure at the University of Houston.
-
-At Cornell University, engaged in multi-disciplinary collaborations with experts specializing in large-scale modeling, data science, and artificial intelligence.
-
-__Selected Publications__
-
-[List a few of your publications similarly to the example given.]
-
-__Selected Awards and Honors__
-
-[List any awards or honors you have received, similar to the example.]
-
-Education
-
-Postdoctoral Fellowship: Johns Hopkins University, [Years, e.g., 2023 - Present]
-
-Postdoctoral Associate: Cornell University, [Years, e.g., 2021 - 2023]
-
-Ph.D. in [Your Discipline]: [Your Ph.D. University, Years]
-
-[Continue with B.A. or any other degrees you've earned]
-
 
