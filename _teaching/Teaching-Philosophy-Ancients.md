@@ -7,6 +7,7 @@ venue: "Univeristy of Life"
 Date: 2023-01-01
 ---
 The Enlightenment from Confucius and Socrates
+
 ## The Story of Confucius Teaching for Diversity
 
 Once, after Confucius finished his lecture and returned to his study, a student named Gong Xi Hua brought him a cup of water. At that moment, Zilu hurriedly entered and loudly asked the teacher, "Master, if I hear a correct proposition, can I immediately act on it?" Confucius glanced at Zilu and calmly replied, "Shouldn't you consult your father and elder brothers first? How can you just act upon hearing it?"
