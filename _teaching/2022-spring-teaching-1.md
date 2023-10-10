@@ -12,4 +12,6 @@ Environmental Fluid Mechanics
 
 ## Environmental Fluid Mechanics
 
-![exp](/images/Exp2cornell.JPG)
+![exp1](/images/Exp1cornell.JPG)
+
+![exp2](/images/Exp2cornell.JPG)
