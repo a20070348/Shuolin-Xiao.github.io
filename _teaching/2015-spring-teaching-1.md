@@ -8,9 +8,12 @@ date: "2015-2017"
 location: "Houston, TX"
 ---
 
-Thermal Dynamics 
+Thermal Dynamics
+
 Fluid Mechanics
+
 Thermal-fluids
+
 
 Thermal Dynamics 
 ======
