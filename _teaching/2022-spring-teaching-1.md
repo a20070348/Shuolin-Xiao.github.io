@@ -1,13 +1,13 @@
 ---
-title: "Co-instructor"
+title: "Co-Instructor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "School of Civil and Environmental Engineering, Cornell University"
-Date: 2022-01-01
+date: 2022-01-01
 location: "Ithaca, NY"
 ---
-Environmental Fluid Mechanics
 
 Environmental Fluid Mechanics
-======
+
+## Environmental Fluid Mechanics
