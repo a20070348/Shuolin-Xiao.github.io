@@ -11,3 +11,5 @@ location: "Ithaca, NY"
 Environmental Fluid Mechanics
 
 ## Environmental Fluid Mechanics
+
+![test](./images/microplastics.JPG)
