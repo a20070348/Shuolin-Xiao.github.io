@@ -6,6 +6,7 @@ permalink: /teaching/2022-spring-teaching-1
 venue: "School of Civil and Environmental Engineering, Cornell University"
 location: "Ithaca, NY"
 ---
+Environmental Fluid Mechanics
 
 Environmental Fluid Mechanics
 ======
