@@ -1,8 +1,10 @@
 ---
 title: "Teaching Philosophy Learnt from the Ancients"
 collection: teaching
+type: ""
 permalink: /teaching/Teaching-Philosophy-Ancients
-date: 
+venue: ""
+Date: 
 ---
 The Story of Confucius Teaching for Diversity
 Socrates' Teaching Philosophy: Celebrating the Diversity of Student Discovery
