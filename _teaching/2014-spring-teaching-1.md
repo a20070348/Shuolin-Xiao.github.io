@@ -7,13 +7,11 @@ venue: "Mechanical Engineering Department, University of Houston"
 location: "Houston, TX"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Thermal Dynamics 
 ======
 
-Heading 2
+Fluid Mechanics
 ======
 
-Heading 3
+Thermal-fluids
 ======
