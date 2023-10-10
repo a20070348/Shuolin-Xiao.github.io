@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Mechanical Engineering Department, University of Houston"
-date: 
+date: "2015-2017"
 location: "Houston, TX"
 ---
 
