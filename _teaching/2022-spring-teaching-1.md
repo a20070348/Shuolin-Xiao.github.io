@@ -7,11 +7,5 @@ venue: "School of Civil and Environmental Engineering, Cornell University"
 location: "Ithaca, NY"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+Environmental Fluid Mechanics
 ======
