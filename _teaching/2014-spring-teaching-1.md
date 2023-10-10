@@ -1,7 +1,7 @@
 ---
-title: "Teaching assistant"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mechanical Department, University of Houston"
 location: "Houston, TX"
