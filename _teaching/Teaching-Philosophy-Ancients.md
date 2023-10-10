@@ -21,4 +21,4 @@ Just as Zilu left, another student, Ran You, quietly approached Confucius and re
 
 Socrates employed the "maieutic method" for rational deduction, championing a diverse approach to teaching that recognized and nurtured the unique paths of each student. By guiding them step by step, students were encouraged to draw their own conclusions. In this process, students weren't just passive recipients but active protagonists, navigating the complexities of their own understandings, with the teacher as a facilitating guide.
 
-![exp1](https://a20070348.github.io/Shuolin-Xiao.github.io/images/sgld.JPG)
+![exp1](https://a20070348.github.io/Shuolin-Xiao.github.io/images/skld.JPG)
