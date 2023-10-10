@@ -8,6 +8,10 @@ location: "Houston, TX"
 ---
 
 Thermal Dynamics 
+Fluid Mechanics
+Thermal-fluids
+
+Thermal Dynamics 
 ======
 
 Fluid Mechanics
