@@ -1,10 +1,10 @@
 ---
 title: "Teaching Philosophy Learnt from the Ancients"
 collection: teaching
-type: ""
+type: "Teaching Philosophy"
 permalink: /teaching/Teaching-Philosophy-Ancients
-venue: ""
-Date: 
+venue: "Univeristy of Life"
+Date: 2023-01-01
 ---
 The Enlightenment from Confucius and Socrates
 ## The Story of Confucius Teaching for Diversity
