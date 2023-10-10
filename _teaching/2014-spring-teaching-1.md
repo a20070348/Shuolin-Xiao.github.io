@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Mechanical Department, University of Houston"
+venue: "Mechanical Engineering Department, University of Houston"
 location: "Houston, TX"
 ---
 
