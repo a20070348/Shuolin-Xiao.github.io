@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "School of Civil and Environmental Engineering, Cornell University"
+Date: ""
 location: "Ithaca, NY"
 ---
 Environmental Fluid Mechanics
