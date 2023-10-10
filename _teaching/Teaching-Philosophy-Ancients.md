@@ -7,7 +7,7 @@ venue: "University of Life"
 date: 2023-01-01
 ---
 
-# The Enlightenment from Confucius and Socrates
+The Enlightenment from Confucius and Socrates
 
 ## The Story of Confucius Teaching for Diversity
 
