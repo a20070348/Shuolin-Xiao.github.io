@@ -12,4 +12,4 @@ Environmental Fluid Mechanics
 
 ## Environmental Fluid Mechanics
 
-![test](./images/microplastics.JPG)
+![test](./images/Exp2cornell.JPG)
