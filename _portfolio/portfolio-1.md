@@ -4,11 +4,8 @@ title: "Life"
 collection: portfolio
 ---
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-between;">
     <img src="https://a20070348.github.io/Shuolin-Xiao.github.io/images/hiking.JPG" width="50%">
-</div>
-
-<div style="display: flex; justify-content: center;">
     <img src="https://a20070348.github.io/Shuolin-Xiao.github.io/images/collecting.JPG" width="50%">
 </div>
 
