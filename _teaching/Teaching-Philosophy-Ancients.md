@@ -15,10 +15,9 @@ Once, after Confucius finished his lecture and returned to his study, a student 
 
 Just as Zilu left, another student, Ran You, quietly approached Confucius and respectfully asked, "Master, if I hear a correct proposition, should I act on it immediately?" Confucius immediately responded, "Yes, you should execute it right away." After Ran You left, Gong Xi Hua curiously asked, "Master, why did you give opposite answers to the same question?" Confucius smiled and said, "Ran You has a humble character and tends to be indecisive in his actions, so I encouraged him to be decisive. However, Zilu is assertive and competitive, often acting without thorough consideration, so I advised him to listen to others' opinions more and think thrice before acting."
 
-<p style="text-align:center;">
+<div style="display: flex; justify-content: center;">
     <img src="https://a20070348.github.io/Shuolin-Xiao.github.io/images/KF.JPG" width="25%">
-</p>
-
+</div>
 
 ## Socrates' Teaching Philosophy: Celebrating the Diversity of Student Discovery
 
