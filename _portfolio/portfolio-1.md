@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Life"
 #excerpt: "Short description of portfolio item number 1<br/><img src='https://a20070348.github.io/Shuolin-Xiao.github.io/images/hiking.JPG'>"
 collection: portfolio
 ---
