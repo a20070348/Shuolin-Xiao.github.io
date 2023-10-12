@@ -16,4 +16,4 @@ Environmental Fluid Mechanics
 
 ![exp2](https://a20070348.github.io/Shuolin-Xiao.github.io/images/Exp2cornell.PNG)
 
-![exp3](https://a20070348.github.io/Shuolin-Xiao.github.io/images/Exp2cornell.JPG)
+![exp3](https://a20070348.github.io/Shuolin-Xiao.github.io/images/Exp3cornell.JPG)
