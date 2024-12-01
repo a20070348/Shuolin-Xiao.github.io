@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuolin Xiao/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuolin Xiao"
-description              : &description "researcher for AI-booasted micrometeorological applications"
+description              : &description "researcher for long-term behaviors in chaotic systems"
 url                      : https:/Shuolin-Xiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "a20070348/Shuolin-Xiao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shuolin Xiao"
   avatar           : "figure_Shuolin_Xiao.png"
-  bio              : "researcher for AI-booasted micrometeorological applications"
+  bio              : "researcher for long-term behaviors in chaotic systems"
   location         : "Battimore, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tE4DjcoAAAAJ&view_op=list_works&sortby=pubdate"
